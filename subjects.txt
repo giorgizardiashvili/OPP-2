@@ -1,7 +1,0 @@
-python
-networks
-informatics
-math
-music
-history
-science 
